@@ -1,4 +1,4 @@
-# MSKCityHack2021Gateway## MSKHackMAG (Mobile API Gateway)
+# MSKHackMAG (Mobile API Gateway)
 
 Основной бекенд приложение. Отвечает за работу с АПИ mos.ru. Технологический стек - Digital Ocean + linux(Ubuntu 19) + Python3 + Flask + sqlite3. В качестве архитектуры была выброана MVC (Model View Controller)
 

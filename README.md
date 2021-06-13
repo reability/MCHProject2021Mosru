@@ -17,6 +17,12 @@
 
 ![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/appImg.png?raw=true)
 
+reco.gif
+
+### Персонально для тебя
+
+![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif?raw=true)
+
 ### UI/UX
 
 Тут про юикс

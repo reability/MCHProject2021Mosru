@@ -20,9 +20,9 @@
 ### Персонально для тебя
 
 
-<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="500">
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="250">
 
-<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filters.gif" width="500">
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filters.gif" width="250">
 
 ### UI/UX
 
@@ -89,10 +89,12 @@ Result
 
 Требуется python3 и pip3
 
+```bash
 pip3 install flask
 pip3 install requests
 pip3 install bs4
 python3 app.py
+```
 
 ## MSKHackAsync (Асинхронный сервис для парной рекомендации)
 
@@ -123,9 +125,11 @@ Action:
 
 Требуется python3 и pip3
 
+```bash
 pip3 install aiohttp
 pip3 install requests
 python3 app.py
+```
 
 
 

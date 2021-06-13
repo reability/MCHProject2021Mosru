@@ -1,5 +1,7 @@
 # MCHProject2021Mosru
 
+![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/headers.png?raw=true)
+
 Проект команды Dungeon masters специально для  MOSCOW CITY HACK 2021 (https://moscityhack.innoagency.ru/)
 
 Трек 4 - Планирование досуговых мероприятий в приложении «Моя Москва»

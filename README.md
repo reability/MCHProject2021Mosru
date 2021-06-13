@@ -14,6 +14,9 @@
 
 ## Название продукта
 
+
+![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/appImg.png?raw=true)
+
 ### UI/UX
 
 Тут про юикс

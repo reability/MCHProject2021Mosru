@@ -69,7 +69,7 @@ POST - /stats - Отправка данных по калибровке
 
 Afisha
 
-```
+```bash
 {
     "id": Integer,   # id афишы на базе mos.ru
     "title": String  # Короткое оглавление меропрития
@@ -81,7 +81,7 @@ Afisha
 
 Like
 
-```
+```bash
 {
     "id": Integer     # id афиши
     "userId": Integer # id пользователя
@@ -91,7 +91,7 @@ Like
 
 Result
 
-```
+```bash
 {
     "result": Object       # Результат выполнения запроса если код 200
     "errorMessage": String # Текстовое описание ошибки если код 500

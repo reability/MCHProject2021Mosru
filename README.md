@@ -22,7 +22,7 @@
 
 <img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="500">
 
-<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="500">
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filters.gif" width="500">
 
 ### UI/UX
 

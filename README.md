@@ -17,12 +17,19 @@
 
 ![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/appImg.png?raw=true)
 
-### Персонально для тебя
+### Персонально для тебя и твоих друзей
 
+Рекоммендательная система подберет мероприятия под твой вкус
 
 <img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="250">
 
+Ищи только то, что нужно
+
 <img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filters.gif" width="250">
+
+Выбирай мероприятия для совместного похода с другом, девушкой или мамой
+
+
 
 ### UI/UX
 

@@ -21,7 +21,10 @@ reco.gif
 
 ### Персонально для тебя
 
+
 ![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif?raw=true | width=100)
+
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/reco.gif" width="100">
 
 ### UI/UX
 

@@ -29,7 +29,8 @@
 
 Выбирай мероприятия для совместного похода с другом, девушкой или мамой
 
-![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/share.gif?raw=true)
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/share.gif" width="250">
+
 
 
 ### Масштабируемость и интеграция

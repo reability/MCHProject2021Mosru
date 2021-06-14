@@ -25,15 +25,12 @@
 
 Ищи только то, что нужно
 
-<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filters.gif" width="250">
+<img src="https://github.com/reability/MCHProject2021Mosru/blob/main/src/filtr.gif" width="250">
 
 Выбирай мероприятия для совместного похода с другом, девушкой или мамой
 
+![alt text](https://github.com/reability/MCHProject2021Mosru/blob/main/src/share.gif?raw=true)
 
-
-### UI/UX
-
-Тут про юикс
 
 ### Масштабируемость и интеграция
 

@@ -12,6 +12,9 @@
 
 @lynnica - Александра Ставская (Арт-директор и идейный вдохновитель комады "Dungeon masters")
 
+
+Miro - https://miro.com/app/board/o9J_lCTwMTg=/?moveToWidget=3074457360345071732&cot=10
+
 ## Название продукта
 
 
